@@ -1,5 +1,3 @@
-
-# biblioteca.py
 from .historico import HistoricoMixin
 from .emprestimo import Emprestimo
 
