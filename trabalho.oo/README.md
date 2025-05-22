@@ -22,7 +22,7 @@ Aqui você pode cadastrar livros, usuários, funcionários, emprestar e devolver
 2. No terminal, rode:
 
 ```bash
-python interface.py
+python main.py
 ```
 
 3. A janela da biblioteca vai abrir, aí é só usar os botões!
