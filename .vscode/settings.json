@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "C_Cpp.default.compilerPath": "c:\\Users\\lu1zi\\.vscode\\agenda\\ada.c"
+}
