@@ -1,22 +1,22 @@
-# ✨ Biblioteca Interativa com Tkinter
+#  Biblioteca Interativa com Tkinter
 
-Bem-vindo ao sistema de **Biblioteca**! 📚  
+Bem-vindo ao sistema de **Biblioteca**!
 Aqui você pode cadastrar livros, usuários, funcionários, emprestar e devolver livros — tudo com uma interface gráfica simples e prática feita em Python com Tkinter.
 
 ---
 
-## 🚀 O que dá pra fazer?
+##  O que dá pra fazer?
 
 ✅ Cadastrar livros  
 ✅ Cadastrar usuários  
 ✅ Cadastrar funcionários  
 ✅ Listar tudo bonitinho  
 ✅ Emprestar e devolver livros  
-✅ Salvar tudo automaticamente 😎
+✅ Salvar tudo automaticamente 
 
 ---
 
-## ▶️ Como rodar
+## Como rodar
 
 1. Tenha o Python 3 instalado.
 2. No terminal, rode:
@@ -29,7 +29,7 @@ python interface.py
 
 ---
 
-## 🗂️ Organização dos arquivos
+## Organização dos arquivos
 
 | Arquivo         | O que faz                                   |
 |------------------|----------------------------------------------|
@@ -44,7 +44,7 @@ python interface.py
 
 ---
 
-## 💾 Importante
+## Importante
 
 - Os dados são salvos sempre que você clica em **"Sair e Salvar"**.
 - Quando abrir o programa de novo, tudo estará lá de onde parou!
