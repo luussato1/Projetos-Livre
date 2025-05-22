@@ -1,7 +1,6 @@
 # Biblioteca Interativa com Tkinter
 
-Bem-vindo ao sistema de **Biblioteca**! 
-Aqui você pode cadastrar livros, usuários, funcionários, emprestar e devolver livros — tudo com uma interface gráfica simples e prática feita em Python com Tkinter.
+Aqui você pode cadastrar livros, usuários, funcionários, emprestar e devolver livros — tudo com uma interface gráfica simples feita em Python com Tkinter.
 
 ---
 
@@ -10,7 +9,6 @@ Aqui você pode cadastrar livros, usuários, funcionários, emprestar e devolver
 ✅ Cadastrar livros  
 ✅ Cadastrar usuários  
 ✅ Cadastrar funcionários  
-✅ Listar tudo bonitinho  
 ✅ Emprestar e devolver livros  
 ✅ Salvar tudo automaticamente 
 
